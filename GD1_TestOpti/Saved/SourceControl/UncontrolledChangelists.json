@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/clement.bergon/Documents/Unreal Projects/GD1_TestOpti/Content/Rgn_Scene_Capacitor_HdSG.uasset",
+				"C:/Users/clement.bergon/Documents/Unreal Projects/GD1_TestOpti/Content/Rgn_Scene_phong2SG.uasset",
+				"C:/Users/clement.bergon/Documents/Unreal Projects/GD1_TestOpti/Content/Rgn_Scene_phong3SG.uasset",
+				"C:/Users/clement.bergon/Documents/Unreal Projects/GD1_TestOpti/Content/TEX_Strafers_Saturn_Redesign_08112021_Ld_Rgn_Mat_BaseColor.uasset",
+				"C:/Users/clement.bergon/Documents/Unreal Projects/GD1_TestOpti/Content/initialShadingGroup.uasset",
+				"C:/Users/clement.bergon/Documents/Unreal Projects/GD1_TestOpti/Content/railgun_ld.uasset",
+				"C:/Users/clement.bergon/Documents/Unreal Projects/GD1_TestOpti/Content/Strafers_Saturn_Redesign_08112021_Ld_Rgn_Mat_Normal.uasset",
+				"C:/Users/clement.bergon/Documents/Unreal Projects/GD1_TestOpti/Content/Strafers_Saturn_Redesign_08112021_Ld_Rgn_Mat_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/clement.bergon/Documents/Unreal Projects/GD1_TestOpti/Content/Strafers_Saturn_Redesign_08112021_Ld_Rgn_Mat_BaseColor.uasset",
+				"C:/Users/clement.bergon/Documents/Unreal Projects/GD1_TestOpti/Content/MM_Opaque.uasset",
+				"C:/Users/clement.bergon/Documents/Unreal Projects/GD1_TestOpti/Content/TEXT_BaseColor.uasset",
+				"C:/Users/clement.bergon/Documents/Unreal Projects/GD1_TestOpti/Content/TEXT_Normal.uasset",
+				"C:/Users/clement.bergon/Documents/Unreal Projects/GD1_TestOpti/Content/TEXT_ORM.uasset",
+				"C:/Users/clement.bergon/Documents/Unreal Projects/GD1_TestOpti/Content/MI_Opaque.uasset",
+				"C:/Users/clement.bergon/Documents/Unreal Projects/GD1_TestOpti/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/QO/3PW8VX7U60VH9IMTHYCMJL.uasset"
+			]
+		}
+	]
+}
