@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/BOCQUILLON Pascal/Unreal Engine/GD1_DataTable/Content/Levels/LVL_DataTable.umap",
+				"D:/BOCQUILLON Pascal/Unreal Engine/GD1_DataTable/Content/CORE/GM_DataTable.uasset",
+				"D:/BOCQUILLON Pascal/Unreal Engine/GD1_DataTable/Content/CORE/PC_DataTable.uasset",
+				"D:/BOCQUILLON Pascal/Unreal Engine/GD1_DataTable/Content/Visages/f0.uasset",
+				"D:/BOCQUILLON Pascal/Unreal Engine/GD1_DataTable/Content/Visages/f1.uasset",
+				"D:/BOCQUILLON Pascal/Unreal Engine/GD1_DataTable/Content/Visages/f2.uasset",
+				"D:/BOCQUILLON Pascal/Unreal Engine/GD1_DataTable/Content/Visages/f3.uasset",
+				"D:/BOCQUILLON Pascal/Unreal Engine/GD1_DataTable/Content/Visages/h0.uasset",
+				"D:/BOCQUILLON Pascal/Unreal Engine/GD1_DataTable/Content/Visages/h1.uasset",
+				"D:/BOCQUILLON Pascal/Unreal Engine/GD1_DataTable/Content/Visages/h2.uasset",
+				"D:/BOCQUILLON Pascal/Unreal Engine/GD1_DataTable/Content/Visages/h3.uasset",
+				"D:/BOCQUILLON Pascal/Unreal Engine/GD1_DataTable/Content/HUD/WB_Dialogue.uasset",
+				"D:/BOCQUILLON Pascal/Unreal Engine/GD1_DataTable/Content/Dialogues/STR_Dialogues.uasset",
+				"D:/BOCQUILLON Pascal/Unreal Engine/GD1_DataTable/Content/Dialogues/DT_Dialogue_1.uasset",
+				"D:/BOCQUILLON Pascal/Unreal Engine/GD1_DataTable/Content/Dialogues/STR_Humeurs.uasset",
+				"D:/BOCQUILLON Pascal/Unreal Engine/GD1_DataTable/Content/Dialogues/DT_Sonia.uasset",
+				"D:/BOCQUILLON Pascal/Unreal Engine/GD1_DataTable/Content/Dialogues/DT_Jason.uasset",
+				"D:/BOCQUILLON Pascal/Unreal Engine/GD1_DataTable/Content/Dialogues/STR_Protagonistes.uasset",
+				"D:/BOCQUILLON Pascal/Unreal Engine/GD1_DataTable/Content/Dialogues/DT_Protagonistes.uasset"
+			]
+		}
+	]
+}
