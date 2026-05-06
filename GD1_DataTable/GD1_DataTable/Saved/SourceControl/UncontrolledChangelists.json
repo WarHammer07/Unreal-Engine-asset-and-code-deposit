@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/Projets unreal/Unreal-Engine-asset-and-code-deposit/GD1_DataTable/GD1_DataTable/Content/Dialogues/DT_Sonia.uasset",
+				"F:/Projets unreal/Unreal-Engine-asset-and-code-deposit/GD1_DataTable/GD1_DataTable/Content/HUD/WB_Dialogue.uasset",
 				"D:/BOCQUILLON Pascal/Unreal Engine/GD1_DataTable/Content/Levels/LVL_DataTable.umap",
 				"D:/BOCQUILLON Pascal/Unreal Engine/GD1_DataTable/Content/CORE/GM_DataTable.uasset",
 				"D:/BOCQUILLON Pascal/Unreal Engine/GD1_DataTable/Content/CORE/PC_DataTable.uasset",
